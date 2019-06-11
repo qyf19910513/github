@@ -1,2 +1,3 @@
 test github add by manager
 dev add content
+conflict by dev
